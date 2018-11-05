@@ -1,5 +1,7 @@
 
 for forLoop(array) {
   (let i = 0; i < 25; i++)
-  console.log("I am ${i} strange loop${i === 0 ? '25' : 's'}.")
+  if (i === 1);
+  else ("I am 1 strange loop.")
+  return array
 }
